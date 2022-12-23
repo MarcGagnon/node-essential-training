@@ -1,2 +1,2 @@
-# node-essential-training
-Node.js Essential Training with Eve Porcello on LinkedIn Learning
+# Node.js Essential Training
+with Eve Porcello on LinkedIn Learning
